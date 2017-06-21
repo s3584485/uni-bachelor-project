@@ -8,6 +8,7 @@ There is a need to have basic understanding of how to run R scripts.
 
 # For initialising data matrix and scaling
   Iris_Initial.R
+  
   Wine_Initial.R
 
 # Main ssFCM function
