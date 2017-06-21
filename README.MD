@@ -2,8 +2,8 @@ This readme provides a brief explanation about what each file in the repo is abo
 There is a need to have basic understanding of how to run R scripts.
 
 Data required
-  Iris data (https://archive.ics.uci.edu/ml/datasets/iris)
-  Wine data (https://archive.ics.uci.edu/ml/datasets/wine)
+  #Iris data (https://archive.ics.uci.edu/ml/datasets/iris)
+  #Wine data (https://archive.ics.uci.edu/ml/datasets/wine)
 
 For initialising data matrix and scaling
   Iris_Initial.R
